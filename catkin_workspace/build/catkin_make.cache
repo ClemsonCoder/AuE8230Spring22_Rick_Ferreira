@@ -1,0 +1,2 @@
+Lab2:assignment3_turtlebot3:turtlebot3_simulations/turtlebot3_fake:turtlebot3_simulations/turtlebot3_gazebo:turtlebot3_simulations/turtlebot3_simulations:turtlesim_cleaner
+-DCATKIN_DEVEL_PREFIX=/home/tiger/catkin_workspace/devel -DCMAKE_INSTALL_PREFIX=/home/tiger/catkin_workspace/install -G Unix Makefiles
