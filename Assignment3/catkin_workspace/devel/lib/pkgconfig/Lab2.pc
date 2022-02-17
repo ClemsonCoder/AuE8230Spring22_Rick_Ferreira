@@ -1,8 +1,0 @@
-prefix=/home/tiger/catkin_workspace/devel
-
-Name: Lab2
-Description: Description of Lab2
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
